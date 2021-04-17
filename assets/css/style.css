@@ -89,3 +89,11 @@ header nav ul li {
     background-position: center;
   }
   /* Hero Style End */
+
+  /* Hero-Form Style Start */
+  .hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+  }
