@@ -89,9 +89,7 @@ header nav ul li {
     background-position: center;
     position: relative;
   }
-  /* Hero Style End */
 
-  /* Hero-Form Style Start */
   .hero-form {
     border: solid 3px #024e76;
     background-color: #fce138;
@@ -102,13 +100,11 @@ header nav ul li {
     bottom: 120px;
     right: 140px;
   }
-  /* Hero-Form Style End */
 
   .hero-form p {
     margin:  5px 0 15px 0;
   }
 
-  /* Hero Form Input Style Start */
   .form-input {
     border:1px solid #024e76;
     display: block;
@@ -118,3 +114,16 @@ header nav ul li {
     width: 100%;
     margin-bottom: 15px;
   }
+
+  .hero-form label {
+    margin: 0 5px;
+  }
+
+  .hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font size: 16px;
+  }
+    /* Hero Style End */
